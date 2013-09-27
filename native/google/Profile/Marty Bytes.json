@@ -1,0 +1,49 @@
+{
+ "kind": "plus#person",
+ "etag": "\"dkpCd9-Yn2KbWqHYsS2czLdiR5k/0tIspvMAgNea3SZREmJMyDqRses\"",
+ "birthday": "0000-06-05",
+ "gender": "male",
+ "emails": [
+  {
+   "value": "marty@mybytes.io"
+  }
+ ],
+ "objectType": "person",
+ "id": "110781414661317480490",
+ "displayName": "Marty Bytes",
+ "name": {
+  "familyName": "Bytes",
+  "givenName": "Marty"
+ },
+ "relationshipStatus": "married",
+ "url": "https://plus.google.com/110781414661317480490",
+ "image": {
+  "url": "https://lh3.googleusercontent.com/-6lGSVBbKUnk/AAAAAAAAAAI/AAAAAAAAAAA/2d2nYIuQiTo/photo.jpg?sz=50"
+ },
+ "organizations": [
+  {
+   "name": "Valley Hill High School",
+   "type": "school",
+   "primary": false
+  },
+  {
+   "name": "BTTF Industries",
+   "title": "Lead Driver",
+   "type": "work",
+   "primary": false
+  }
+ ],
+ "placesLived": [
+  {
+   "value": "California",
+   "primary": true
+  }
+ ],
+ "isPlusUser": true,
+ "hasAcceptedMobileTos": false,
+ "language": "en_GB",
+ "ageRange": {
+  "min": 21
+ },
+ "verified": false
+}

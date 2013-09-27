@@ -1,0 +1,21 @@
+<http://www.facebook.com/marty.bytes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> .
+<http://www.facebook.com/marty.bytes> <http://www.w3.org/2006/vcard/ns#fn> "Marty Bytes" .
+<http://www.facebook.com/marty.bytes> <http://www.w3.org/2006/vcard/ns#email> "marty@mybytes.io" .
+<http://www.facebook.com/marty.bytes> <http://www.w3.org/2006/vcard/ns#adr> _:g2152956540 .
+_:g2152956540 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:g2152956540 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Home> .
+_:g2152956540 <http://www.w3.org/2006/vcard/ns#locality> "London" .
+_:g2152956540 <http://www.w3.org/2006/vcard/ns#country-name> "United Kingdom" .
+<https://plus.google.com/110781414661317480490> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> .
+<https://plus.google.com/110781414661317480490> <http://www.w3.org/2006/vcard/ns#fn> "Marty Bytes" .
+<https://plus.google.com/110781414661317480490> <http://www.w3.org/2006/vcard/ns#email> "marty@mybytes.io" .
+<https://plus.google.com/110781414661317480490> <http://www.w3.org/2006/vcard/ns#adr> _:g2168064040 .
+_:g2168064040 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:g2168064040 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Home> .
+_:g2168064040 <http://www.w3.org/2006/vcard/ns#country-name> "California" .
+<https://twitter.com/MartyBytes> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#VCard> .
+<https://twitter.com/MartyBytes> <http://www.w3.org/2006/vcard/ns#fn> "Marty Bytes" .
+<https://twitter.com/MartyBytes> <http://www.w3.org/2006/vcard/ns#adr> _:g2168362460 .
+_:g2168362460 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Address> .
+_:g2168362460 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2006/vcard/ns#Home> .
+_:g2168362460 <http://www.w3.org/2006/vcard/ns#locality> "London" .
